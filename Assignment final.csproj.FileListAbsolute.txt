@@ -1,0 +1,20 @@
+C:\Users\ayand\source\repos\Assignment final\bin\Debug\Assignment final.exe.config
+C:\Users\ayand\source\repos\Assignment final\bin\Debug\Assignment final.exe
+C:\Users\ayand\source\repos\Assignment final\bin\Debug\Assignment final.pdb
+C:\Users\ayand\source\repos\Assignment final\obj\Debug\Assignment final.csprojAssemblyReference.cache
+C:\Users\ayand\source\repos\Assignment final\obj\Debug\Assignment_final.Form1.resources
+C:\Users\ayand\source\repos\Assignment final\obj\Debug\Assignment_final.Properties.Resources.resources
+C:\Users\ayand\source\repos\Assignment final\obj\Debug\Assignment final.csproj.GenerateResource.cache
+C:\Users\ayand\source\repos\Assignment final\obj\Debug\Assignment final.csproj.CoreCompileInputs.cache
+C:\Users\ayand\source\repos\Assignment final\obj\Debug\Assignment final.exe
+C:\Users\ayand\source\repos\Assignment final\obj\Debug\Assignment final.pdb
+C:\Users\ayand\Documents\School\School 2021\2021\Block 1\ITCPA2-B11\CP Assignment Final confirm\Assignment final\bin\Debug\Assignment final.exe.config
+C:\Users\ayand\Documents\School\School 2021\2021\Block 1\ITCPA2-B11\CP Assignment Final confirm\Assignment final\bin\Debug\Assignment final.exe
+C:\Users\ayand\Documents\School\School 2021\2021\Block 1\ITCPA2-B11\CP Assignment Final confirm\Assignment final\bin\Debug\Assignment final.pdb
+C:\Users\ayand\Documents\School\School 2021\2021\Block 1\ITCPA2-B11\CP Assignment Final confirm\Assignment final\obj\Debug\Assignment final.csprojAssemblyReference.cache
+C:\Users\ayand\Documents\School\School 2021\2021\Block 1\ITCPA2-B11\CP Assignment Final confirm\Assignment final\obj\Debug\Assignment_final.Form1.resources
+C:\Users\ayand\Documents\School\School 2021\2021\Block 1\ITCPA2-B11\CP Assignment Final confirm\Assignment final\obj\Debug\Assignment_final.Properties.Resources.resources
+C:\Users\ayand\Documents\School\School 2021\2021\Block 1\ITCPA2-B11\CP Assignment Final confirm\Assignment final\obj\Debug\Assignment final.csproj.GenerateResource.cache
+C:\Users\ayand\Documents\School\School 2021\2021\Block 1\ITCPA2-B11\CP Assignment Final confirm\Assignment final\obj\Debug\Assignment final.csproj.CoreCompileInputs.cache
+C:\Users\ayand\Documents\School\School 2021\2021\Block 1\ITCPA2-B11\CP Assignment Final confirm\Assignment final\obj\Debug\Assignment final.exe
+C:\Users\ayand\Documents\School\School 2021\2021\Block 1\ITCPA2-B11\CP Assignment Final confirm\Assignment final\obj\Debug\Assignment final.pdb
